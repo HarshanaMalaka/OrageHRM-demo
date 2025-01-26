@@ -1,7 +1,3 @@
-Here's the updated README that reflects the generation of the emailable report and removes the license section:  
-
----
-
 # OrangeHRM Login Automation Project  
 
 ## Project Description  
@@ -48,4 +44,4 @@ The emailable HTML report is located in the `test-output` folder as `emailable-r
 
 ---
 
-Let me know if you’d like any other modifications! 😊
+
