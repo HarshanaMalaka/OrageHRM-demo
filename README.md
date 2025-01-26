@@ -40,7 +40,10 @@ The emailable HTML report is located in the `test-output` folder as `emailable-r
 ## Future Enhancements  
 - Expanding automation coverage to other OrangeHRM modules.  
 - Integration with CI/CD pipelines for continuous testing.  
-- Enhanced reporting with tools like ExtentReports or Allure.  
+- Enhanced reporting with tools like ExtentReports or Allure.
+
+ ## License  
+ - This project is licensed under the [MIT License](LICENSE). 
 
 ---
 
